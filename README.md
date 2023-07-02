@@ -1,1 +1,1 @@
-# potential-train
+# rsschool-cv/cv
