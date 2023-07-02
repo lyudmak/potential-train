@@ -6,7 +6,7 @@
 
 # Telegram @mill572
 
-# GitHub: lyudmak
+# GitHub: Людик
 
 ## Nizhniy Novgorod
 
@@ -15,7 +15,5 @@
 # Education: Nizhny Novgorod Medical College
 
 # Knowledge of English - Beginner
-
-### Potential-train
 
 #### Created July 2023
