@@ -1,18 +1,18 @@
-#Makarova Lyudmila
+# Makarova Lyudmila
 
 ## contacts
 
-#lyudmila.mackarova2012@gmail.com
+# lyudmila.mackarova2012@gmail.com
 
-#Telegram @mill572
+# Telegram @mill572
 
 # GitHub: Людик
 
 ## Nizhniy Novgorod
 
-#I learn JS/Frontend in RS School.  I'm taking an initial course
+# I learn JS/Frontend in RS School.  I'm taking an initial course
 
-#Education: Nizhny Novgorod Medical College
+# Education: Nizhny Novgorod Medical College
 
 # Knowledge of English - Beginner
 
