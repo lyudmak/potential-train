@@ -6,7 +6,7 @@
 
 # Telegram @mill572
 
-# GitHub: Людик
+# GitHub: lyudmak
 
 ## Nizhniy Novgorod
 
