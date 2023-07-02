@@ -10,4 +10,4 @@
 
 ###### Nizhniy Novgorod
 
-#######n I learn JS/Frontend in RS School.
+####### I learn JS/Frontend in RS School.
